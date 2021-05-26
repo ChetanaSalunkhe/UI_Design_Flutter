@@ -6,14 +6,11 @@ A new Flutter application.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+In this demo beow points are covered-
+Widgets and Layouts designing in flutter
+Designing of TextFields, Radiobuttons, Buttons with border, shape and background color, alignment horizontally and vertically.
+Attaching home icon, option menu icon etc.
+Changing color of Appbar.
 
 ![Screenshot_20210526-143819](https://user-images.githubusercontent.com/73543054/119634223-2990df80-be30-11eb-963f-a6f6dbb2bda8.png)
 
